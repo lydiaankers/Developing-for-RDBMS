@@ -1,5 +1,5 @@
-# Developing-for-RDBMS_
-Second year "Database Systems" using MySQL_
+# Developing-for-RDBMS <br />
+Second year "Database Systems" using MySQL <br />
 The core component of the database are the books, which are specified by isbn, title & author. 
 For each book there are specific copies available, which are specified by code, isbn & loan 
 duration (7, 14 or 21 days).
